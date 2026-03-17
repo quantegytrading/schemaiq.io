@@ -1,1 +1,1 @@
-# schemaiq.io
+[https://schemaiq.io](https://schemaiq.io)
